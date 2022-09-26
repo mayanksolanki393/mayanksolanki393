@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Solanki @mayanksolanki393
-- 👀 I’m interested in Compilers, Program Analysis & Verification, Machine Learning
-- 🌱 I’m currently learning Program Verification
+- 👀 I’m interested in Compilers, Program Analysis, Verification and Synthesis
+- 🌱 I’m currently learning/working on Program Verification
 - 💞️ I’m looking to collaborate on nothing for now
 
 <!---
